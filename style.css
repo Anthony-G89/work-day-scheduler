@@ -80,7 +80,7 @@ textarea{
 .input-group-prepend{
   margin-bottom: 10px;
 }
-#addon-wrapping{
+.input-group-text{
   background-color: rgb(140, 6, 223);
   color: white;
   margin-right: 4px;
