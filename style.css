@@ -3,6 +3,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  
 }
 
 textarea{
@@ -57,9 +58,6 @@ textarea{
   background-color: #77dd77;
   color: white;
 }
-.fa, .fas{
-
-}
 
 .saveBtn i:hover {
   font-size: 20px;
@@ -86,6 +84,7 @@ textarea{
 .form-control{
   padding: 23px;
   margin-bottom: 2px;
+  color: blue;
   
 }
 
